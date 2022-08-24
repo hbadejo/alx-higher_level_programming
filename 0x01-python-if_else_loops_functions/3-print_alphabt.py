@@ -2,4 +2,4 @@
 for _ in range(97, 123):
     if _ == 101 or _ == 113:
         continue
-    print(chr(_), end="")
+    print("{}".format(chr(_)), end="")

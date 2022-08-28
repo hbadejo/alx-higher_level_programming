@@ -33,7 +33,14 @@ for i in path:
     if "_" not in i[0]:
         print(i)"""
 
-from variable_load_5 import a
+# from variable_load_5 import a
 
-print(a)
+# print(a)
+
+#!/usr/bin/python3
+import string
+print(string.ascii_lowercase)
+
+
+print(string.ascii_uppercase)
 

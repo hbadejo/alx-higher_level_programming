@@ -2,9 +2,6 @@
 """Define a class Square."""
 
 
-from turtle import position
-
-
 class Square:
     """Represent a square."""
 

@@ -10,13 +10,13 @@ Usage
 ``matrix_divided(...)`` returns a new matrix that is a copy of the parameter
 ``matrix`` with all elements divided by ``div``.
 
-2-matrix_divided
-================
+import 2-matrix_divided
+=======================
 
 >>> matrix_divided = __import__('2-matrix_divided').matrix_divided
 
- Sample test from ALX
- ====================
+Sample test from ALX
+====================
  ::
 Note that quotients are rounded to a maximum of two decimal places.
     >>> matrix = [

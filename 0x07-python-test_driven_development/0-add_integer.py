@@ -2,25 +2,6 @@
 """
 Adding two integers
 
-The 0-add_integer supplies one function, add_integer(a, b=98). 
-It is expected to return the addition of two integer numbers.
-If any of the arguments giving is neither an integer or a float,
-a Typeerror is raised
-For example,
-
->>> add_integer(1, 2)
-3
->>> add_integer(100, -2)
-98
->>> add_integer(2)
-100
->>> add_integer(100.3, -2)
-98
->>> add_integer(4, "School")
-Traceback (most recent call last):
-        ...
-TypeError: a must be an integer or b must be an integer
-
 """
 
 

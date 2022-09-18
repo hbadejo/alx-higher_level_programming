@@ -10,7 +10,7 @@ Usage
 Squares are printed using the ``#`` character. The parameter ``size``
 represents the height and width of the square.
 
-import 0-add_integer
+import 4-print_square
 ====================
 >>> print_square = __import__('4-print_square').print_square
 

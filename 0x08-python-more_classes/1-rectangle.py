@@ -14,7 +14,7 @@ class Rectangle:
 
     def __init__(self, width=0, height=0):
         self.width = width
-        self. height = height
+        self.height = height
 
     @property
     def height(self):
@@ -23,7 +23,7 @@ class Rectangle:
 
     @height.setter
     def height(self, value):
-        """Retrieve private instance attribute
+        """Set private instance attribute
         Raise a TypeError if value is not int
         Raise a ValueError if value is < 0
         """
@@ -41,7 +41,7 @@ class Rectangle:
 
     @width.setter
     def width(self, value):
-        """Retrieve private instance attribute
+        """Set private instance attribute
         Raise a TypeError if value is not int
         Raise a ValueError if value is < 0
         """

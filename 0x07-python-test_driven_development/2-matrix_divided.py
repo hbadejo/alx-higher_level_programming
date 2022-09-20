@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 Function that divides all elements of a matrix
 with a divisor which can be an integer or a float.
